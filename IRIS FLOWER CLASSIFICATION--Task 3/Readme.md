@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://github.com/Welde-Dhanashri/CODSOFT/blob/main/IRIS%20FLOWER%20CLASSIFICATION--Task%203/iris1.jpg?raw=true" width="30%" alt="iris1">
   <img src="https://github.com/Welde-Dhanashri/CODSOFT/blob/main/IRIS%20FLOWER%20CLASSIFICATION--Task%203/iris2.jpg?raw=true" width="30%" alt="iris2">
-  <img src="https://github.com/Welde-Dhanashri/CODSOFT/blob/main/IRIS%20FLOWER%20CLASSIFICATION--Task%203/Pairplot%20image.png?raw=true" width="30%" alt="Confusion Matrix">
+  <img src="https://github.com/Welde-Dhanashri/CODSOFT/blob/main/IRIS%20FLOWER%20CLASSIFICATION--Task%203/pairplot.png?raw=true" width="30%" alt="Pairplot">
 </p>
 
 
