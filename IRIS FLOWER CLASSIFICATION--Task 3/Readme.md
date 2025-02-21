@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="pairplot.png" width="30%" alt="Pairplot">
+  <img src="https://github.com/Welde-Dhanashri/CODSOFT/blob/main/IRIS%20FLOWER%20CLASSIFICATION--Task%203/iris%201.jpg?raw=true" width="30%" alt="Pairplot">
   <img src="correlation_heatmap.png" width="30%" alt="Correlation Heatmap">
   <img src="confusion_matrix.png" width="30%" alt="Confusion Matrix">
 </p>
