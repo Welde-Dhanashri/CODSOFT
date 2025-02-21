@@ -1,5 +1,7 @@
-# CODSOFT
+# CODSOFT Internship
+![image](https://github.com/Welde-Dhanashri/CODSOFT/blob/main/codsoft.png?raw=true)
 Welcome to the CODSOFT repository! This repository contains the projects and tasks completed during my internship. The following tasks demonstrate my skills in data science and machine learning using Python:
+
 
 ## Tasks Overview
 ## 1. Titanic Survival Prediction
